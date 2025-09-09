@@ -1,10 +1,10 @@
 # Pokémon Solus RGB
 
+[![Solus Discord](https://badgen.net/discord/members/YTxu5uM7r6?icon=discord)][solusdiscord]
+
 <p align="center" style="margin-left: 10%; margin-right: 10%">
 <img src="screenshots/box-front-solus-triple.png">
 </p>
-
-[![Solus Discord](https://badgen.net/discord/members/YTxu5uM7r6?icon=discord)][solusdiscord]
 
 Just want the patch? [Download here][releases].
 
