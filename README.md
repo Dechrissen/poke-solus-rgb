@@ -4,11 +4,13 @@
 <img src="screenshots/box-front-solus-triple.png">
 </p>
 
+[![Solus Discord](https://badgen.net/discord/members/YTxu5uM7r6?icon=discord)][solusdiscord]
+
+Just want the patch? [Download here][releases].
+
 _Pokémon Solus RGB_ is a minimal, near-vanilla, faithful romhack of Pokémon Red/Blue for Game Boy, with a focus on an enhanced **solo gameplay experience**. It is based on the [disassembly of Pokémon Red and Blue][pokered].
 
-For a detailed look at all the changes in this romhack, read the [Feature Log][featurelog]. For a video overview, watch the [trailer][trailer]. Join the [Solus Discord][solusdiscord] to offer any feedback.
-
-Just want the patch? Download [here][releases].
+For a detailed look at all the changes in this romhack, read the [Feature Log][featurelog]. For a video overview, watch the [trailer][trailer].
 
 Don't know where to start? Read the [beginner setup guide][howtoplay].
 
@@ -146,15 +148,19 @@ Thank you to [PRET][pret], the people of the [PRET Discord server][pretdiscord],
 If you want to show your support, you could:
 - Give this repository a Star :star:
 - [Join the Solus Discord][solusdiscord] to say hi or offer feedback
-- [Leave a review][review] or publish a video review
+- [Write a review][review] or publish a video review
 - Stream or record a playthrough on Twitch or YouTube
 - Share the project with someone who might be interested
 
 Any form of support is greatly appreciated!  
 
-Please don't sell this romhack.  
-[pokemonsolus.com][homepage] :globe_with_meridians:
+[![Solus Discord](https://badgen.net/discord/members/YTxu5uM7r6?icon=discord)][solusdiscord]  
 
+[PokemonSolus.com][homepage]
+
+<hr/>
+
+Please don't sell this romhack.
 
 [homepage]: https://www.pokemonsolus.com
 [pokered]: https://github.com/pret/pokered

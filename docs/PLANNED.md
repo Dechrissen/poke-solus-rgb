@@ -12,3 +12,4 @@ Some possible changes/features I have planned for future releases.
     - Which back sprite sets are used (original low-res(?), Space World high-res, Gen 2 high-res, and potentially a newly-curated 'Solus set' for back sprites as well)
     - Change the starters to any Pokémon (to allow for more varied early games)
     - Hard mode (boss trainers like Gym Leaders would have modified parties, mostly)
+    - Oft-requested things, like: Running Shoes, higher bag/PC storage cap, TM shop, interactable HM objects in the field
