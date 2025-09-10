@@ -1,5 +1,5 @@
 # Pokémon Solus RGB: Feature Log
-This file details all the changes the Pokémon Solus RGB romhack makes to the vanilla Pokémon Red/Blue games. To compare previous releases, check the [changelog](CHANGELOG.md).
+This file details all the changes the Pokémon Solus RGB romhack makes to the vanilla Pokémon Red/Blue games. To compare previous releases of Solus RGB, check the [change log](CHANGELOG.md).
 
 ## Table of Contents
 - [Motivation](#motivation)
@@ -32,11 +32,11 @@ This file details all the changes the Pokémon Solus RGB romhack makes to the va
 
 ## Motivation
 
-This romhack is very much a "purist's version" of Gen 1. The decisions made were inspired by my idea of what an "enhanced" version of Gen 1 might look like. I wanted to make this romhack so that I could actually use it for my personal routine playthroughs of Gen 1. The general philosophy (and where the romhack gets its name) was that it should be "an enhancement of Gen 1 which focuses on improving the solo experience of the game" (i.e., the need for trading should be "mitigated", and some things should be backported from Yellow and Gen 2, since they can technically be taken advantage of with real cartridges). But all in all, it's a very minimal romhack.
+This romhack is very much a purist's version of Gen 1. The decisions made were inspired by my idea of what an "enhanced" version of Gen 1 might look like. I wanted to make this romhack so that I could actually use it for my personal routine playthroughs of Gen 1. The general philosophy (and where the romhack gets its name) was that it should be "an enhancement of Gen 1 which focuses on improving the solo experience of the game" (i.e., the need for trading should be "mitigated", and some things should be backported from Yellow and Gen 2, since they can technically be taken advantage of with real cartridges). But all in all, it's a very minimal romhack.
 
 The extra modifications beyond those mostly consist of logical changes to address some problems which most people would agree _are_ problems, with a sprinkling of my personal preferences on top (such as changing some battle sprites to ones from other Gen 1 games). I also didn't want to go overboard fixing bugs; a lot of the vanilla bugs can be seen as contributing to what makes Gen 1 special. All of this is to say: you might not agree with some of my decisions.
 
-While working on this project, I tended to draw from later generations when making certain decisions that didn't have an "answer" in Gen 1. For example, if a Pokémon needed to be added somewhere in the wild, but there was no other Gen 1 release to draw from, I looked at what later games did (sometimes Gen 2, sometimes even Let's Go Pikachu/Eevee). I was conservative in my application of this strategy, and only resorted to it when I felt it was necessary to resolve some problem. Which brings me to the question ...
+While working on this project, I tended to draw from later generations when making certain decisions that didn't have an answer in Gen 1. For example, if a Pokémon needed to be added somewhere in the wild, but there was no other Gen 1 release to draw from, I looked at what later games did (sometimes Gen 2, sometimes even Let's Go Pikachu/Eevee). I was conservative in my application of this strategy, and only resorted to it when I felt it was necessary to resolve some problem. Which brings me to the question ...
 
 Q: What is this romhack trying to solve?
 
@@ -466,6 +466,9 @@ Q: Does this romhack work on real hardware (i.e. flash cartridges on a real Game
 
 Q: Do GameShark/Game Genie codes work with this romhack?
 > A: Evidently Game Shark codes work fine, but Game Genie codes do not. Your mileage may vary. Only one person reported that Game Shark codes worked, and that Game Genie codes did not. But I have not tested this myself.
+
+Q: Will you add X feature or make Y change?
+> A: Honestly, probably not; I consider this project to be 99% complete, barring any surge of inspiration I may get to make a change that allows the game to get closer to my initial vision. As of now, I'm happy to say that the vision is pretty much achieved. Check [Things I don't plan to change](#things-i-dont-plan-to-change) for some examples.
 
 ### Things I don't plan to change
 There are some things I've been asked to implement which I don't think align with the philosophy for Solus RGB. They are listed here.

@@ -1,18 +1,26 @@
 # Pokémon Solus RGB
 
-[![Solus Discord](https://badgen.net/discord/members/YTxu5uM7r6?icon=discord)][solusdiscord]
+<p align="center">
+    <a href="https://github.com/Dechrissen/poke-solus-rgb/releases/latest"><img src="https://flat.badgen.net/github/release/dechrissen/poke-solus-rgb?icon=github&color=228B22" /></a>
+    <a href=""><img src="https://flat.badgen.net/github/stars/dechrissen/poke-solus-rgb?icon=github&color=228B22" /></a>
+    <a href="https://discord.gg/YTxu5uM7r6"><img src="https://flat.badgen.net/discord/members/YTxu5uM7r6?icon=discord" /></a>
+</p>
+
 
 <p align="center" style="margin-left: 10%; margin-right: 10%">
 <img src="screenshots/box-front-solus-triple.png">
 </p>
 
-Just want the patch? [Download here][releases].
-
-_Pokémon Solus RGB_ is a minimal, near-vanilla, faithful romhack of Pokémon Red/Blue for Game Boy, with a focus on an enhanced **solo gameplay experience**. It is based on the [disassembly of Pokémon Red and Blue][pokered].
-
-For a detailed look at all the changes in this romhack, read the [Feature Log][featurelog]. For a video overview, watch the [trailer][trailer].
-
+Just want the patch? [Download here][latest].  
 Don't know where to start? Read the [beginner setup guide][howtoplay].
+
+## Introduction
+
+_Pokémon Solus RGB_ is a minimal, near-vanilla, faithful romhack of Pokémon Red/Blue for Game Boy, with a focus on an enhanced **solo gameplay experience**. It's based on the [disassembly of Pokémon Red and Blue][pokered].
+
+For a detailed look at all the changes in this romhack, read the [feature log][featurelog]. For a quick video overview, watch the [trailer][trailer].
+
+
 
 ## Table of Contents
 - [Elevator pitch](#elevator-pitch)
@@ -38,13 +46,13 @@ _Pokémon Solus RGB_ is a minimal, near-vanilla romhack of Gen 1 (Red & Blue). I
 8. Exclusive Solus sprite set (a collection of the developer's favorites)
 9. Some bugs/oversights from vanilla are fixed (Ghost is now super effective against Psychic, Focus Energy no longer quarters critical hit chance, etc.)
 
-For a detailed look at _all_ the changes, check out the [Feature Log][featurelog].
+For a detailed look at _all_ the changes, check out the [feature log][featurelog].
 
 ## Versions
 
 There are three versions of this romhack: _Solus Red_, _Solus Green_, and _Solus Blue_. The differences between versions are solely cosmetic (palettes, title screen text, etc.), as this project consolidates any of the meaningful version-specific differences that existed across versions, such as Pokémon availability. Check [here][versiondifferences] for a complete list of version differences.
 
-_Note_: If played on Game Boy Color, _Solus Green_ uses the GBC's built-in green "duochrome" palette. This is the same one which was used by the Japanese release of Pokémon Green Version.
+_Note_: If played on Game Boy Color, _Solus Green_ uses the GBC's built-in green "duochrome" palette. This is the same one which is used by the Japanese release of Pokémon Green Version.
 
 ## Installation
 
@@ -108,59 +116,60 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 
 ## Links
 
-### Solus RGB
+### General
 - [Wiki][soluswiki]
-- [Feature Log][featurelog] (comprehensive list)
-- [Changelog][changelog] (per-release changes)
+- [Feature log][featurelog] (comprehensive master list)
+- [Change log][changelog] (for changes across releases)
 - [Testimonials][testimonials]
 - [Planned features][planned]
 - [romhacking.net page][romhackingnet]
 - [RomhackPlaza page][romhackplaza]
 - [Box art and cartridge labels][physical]
 - [Original (crude) design document][designdoc]
+- [FAQ][faq]
 
 ### Published media
 - [Blog posts][blogposts]
 - [Video playlist][solusplaylist]
 
-### PRET
+### pret
 - [pokered disassembly][pokered] (from which this romhack is forked)
-- [pokered wiki][wiki] (helpful tutorials)
-- [PRET Discord server][pretdiscord]
+- [pokered wiki][wiki] (helpful romhacking tutorials)
+- [pret Discord server][pretdiscord]
 
 ### Other relevant works
 - [pokeworld][pokeworld] (helpful tool for visualizing the Kanto overworld)
 - [Polished Map][polishedmap] (map/tileset editor)
-- [French translation of Solus][poke-solus-fr] by [persuaded9041][persuaded9041]
+- [French translation of Solus RGB][poke-solus-fr] by [persuaded9041][persuaded9041]
 
 
 ## Credits
-Thank you to [PRET][pret], the people of the [PRET Discord server][pretdiscord], and these individuals who were very helpful throughout my work on this project:
+Thank you to [pret][pret], the people of the [pret Discord server][pretdiscord], and these individuals who were very helpful throughout my work on this project:
 - [jojobear13][jojobear13], for Field Move slot implementation
-- [Vortiene][Vortyne], for assistance with assembly and `pokered`
 - [dannye][dannye], for EXP bar implementation and support
+- [Vortiene][Vortyne], for assistance with assembly and `pokered`
 - [unlink2][unlink2], for assistance with Makefile functionality
-- [Quadrixis][quadrixis], for collaboration on theorycrafting and general support
+- [Quadrixis][quadrixis], for collaborative theorycrafting and general support
 - [persuaded9041][persuaded9041], for French translation ([here][poke-solus-fr])
 - [Jade Lune][jade] (Discord: _criminalelements_), for Solus artwork (box, cartridge label)
 
 ## Support the Solus Project
 If you want to show your support, you could:
 - Give this repository a Star :star:
-- [Join the Solus Discord][solusdiscord] to say hi or offer feedback
-- [Write a review][review] or publish a video review
-- Stream or record a playthrough on Twitch or YouTube
+- [Join the Solus Discord][solusdiscord] to offer feedback
+- [Write a review][review]
+- Publish a video review
 - Share the project with someone who might be interested
 
-Any form of support is greatly appreciated!  
+Any form of support is greatly appreciated (really).  
 
-[![Solus Discord](https://badgen.net/discord/members/YTxu5uM7r6?icon=discord)][solusdiscord]  
+[![solus discord](https://flat.badgen.net/discord/members/YTxu5uM7r6?icon=discord)][solusdiscord]  
 
 [PokemonSolus.com][homepage]
 
 <hr/>
 
-Please don't sell this romhack.
+Please don't sell this romhack or anything like that. Also I don't claim to own the rights to any of the code or artwork in this repository or anything crazy like that.
 
 [homepage]: https://www.pokemonsolus.com
 [pokered]: https://github.com/pret/pokered
@@ -175,6 +184,7 @@ Please don't sell this romhack.
 [changelog]: docs/CHANGELOG.md
 [planned]: docs/PLANNED.md
 [releases]: https://github.com/Dechrissen/poke-solus-rgb/releases
+[latest]: https://github.com/Dechrissen/poke-solus-rgb/releases/latest
 [pokeworld]: https://www.extratricky.com/pokeworld/rb/1
 [polishedmap]: https://github.com/Rangi42/polished-map
 [blogposts]: https://derekandersen.net/blog/tag/solus
@@ -190,6 +200,7 @@ Please don't sell this romhack.
 [contact]: https://dechrissen.com/contact
 [solusdiscord]: https://discord.gg/YTxu5uM7r6
 [howtoplay]: docs/PLAY.md
+[faq]: docs/FEATURES.md#faq
 
 [jojobear13]: https://github.com/jojobear13
 [Vortyne]: https://github.com/Vortyne

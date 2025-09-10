@@ -1,4 +1,4 @@
-# Pokémon Solus RGB: Changelog
+# Pokémon Solus RGB: Change Log
 
 An overview of the changes made in each release.
 
