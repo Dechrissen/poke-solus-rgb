@@ -163,7 +163,7 @@ Any form of support is greatly appreciated (really).
 [![solus discord](https://flat.badgen.net/discord/members/YTxu5uM7r6?icon=discord)][solusdiscord]  
 [PokemonSolus.com][homepage]
 
-<p style="text-align: center;"><a href="https://www.pokemonsolus.com"><img src="screenshots/pokemon_solus_logo.png" width="150px"></a></p>
+<p align="center"><a href="https://www.pokemonsolus.com"><img src="screenshots/pokemon_solus_logo.png" width="150px"></a></p>
 
 <hr/>
 
