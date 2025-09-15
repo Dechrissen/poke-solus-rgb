@@ -94,7 +94,15 @@ The following testimonials and reviews are from [YouTube videos][youtubeplaylist
 
 > Hey, so i just wanted to say thanks for your incredibly impressive rom hack for pokemon red/blue/green. Im a 90s kid, and being able to play a pure, but now full, old school pokemon experience has been a complete joy. You did a fantastic job, and i am extremely thankful to have been able to play these games with the obvious care you put into them.
 >
-> _— Beneficial_Ask_6013_
+> _— Beneficial\_Ask\_6013_
+
+> I can't stop playing Solus. You really made this game perfect in my book.
+>
+> _— CapnRetro_
+
+> I just beat this 2 weeks ago. It’s the best red/blue/green romhack I’ve ever played. It’s so faithful to the original, but makes night and day improvements that make the game better than it ever was. Thanks a lot dude. Can’t wait to see what else you do (please I beg you, do silver and gold on GameBoy color PLEASE)!
+>
+> _— Fran-yn2ve_
 
 Want to leave a review? Leave it on the [romhacking.net review page][review]!  
 General comments? Join the [Solus Discord][solusdiscord]!

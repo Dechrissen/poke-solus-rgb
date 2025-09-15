@@ -20,8 +20,6 @@ _Pokémon Solus RGB_ is a minimal, near-vanilla, faithful romhack of Pokémon Re
 
 For a detailed look at all the changes in this romhack, read the [feature log][featurelog]. For a quick video overview, watch the [trailer][trailer].
 
-
-
 ## Table of Contents
 - [Elevator pitch](#elevator-pitch)
 - [Versions](#versions)
@@ -142,7 +140,6 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 - [Polished Map][polishedmap] (map/tileset editor)
 - [French translation of Solus RGB][poke-solus-fr] by [persuaded9041][persuaded9041]
 
-
 ## Credits
 Thank you to [pret][pret], the people of the [pret Discord server][pretdiscord], and these individuals who were very helpful throughout my work on this project:
 - [jojobear13][jojobear13], for Field Move slot implementation
@@ -164,13 +161,15 @@ If you want to show your support, you could:
 Any form of support is greatly appreciated (really).  
 
 [![solus discord](https://flat.badgen.net/discord/members/YTxu5uM7r6?icon=discord)][solusdiscord]  
-
 [PokemonSolus.com][homepage]
+
+<p style="text-align: center;"><a href="https://www.pokemonsolus.com"><img src="screenshots/pokemon_solus_logo.png" width="150px"></a></p>
 
 <hr/>
 
-Please don't sell this romhack or anything like that. Also I don't claim to own the rights to any of the code or artwork in this repository or anything crazy like that.
+Please don't sell this romhack or anything crazy like that. I don't profit from this romhack. I don't claim to own the rights to any of the code or assets or artwork in this repository. Thank you.
 
+<!-- LINKS -->
 [homepage]: https://www.pokemonsolus.com
 [pokered]: https://github.com/pret/pokered
 [pret]: https://github.com/pret
@@ -202,6 +201,7 @@ Please don't sell this romhack or anything like that. Also I don't claim to own 
 [howtoplay]: docs/PLAY.md
 [faq]: docs/FEATURES.md#faq
 
+<!-- PEOPLE -->
 [jojobear13]: https://github.com/jojobear13
 [Vortyne]: https://github.com/Vortyne
 [dannye]: https://github.com/dannye
