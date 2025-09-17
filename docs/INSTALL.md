@@ -53,7 +53,8 @@ Double click on the text that says "Skip" next to each package to select the mos
 
 Then follow the [rgbds install instructions](https://rgbds.gbdev.io/install#pre-built) for Windows with Cygwin to install `rgbds 0.7.0`.
 
-_Note_: If you already have an installed `rgbds` older than 0.7.0, you will need to update to 0.7.0. Ignore this if you have never installed `rgbds` before. If a version newer than 0.7.0 does not work, try downloading 0.7.0.
+> [!NOTE]
+> If you already have an installed `rgbds` older than 0.7.0, you will need to update to 0.7.0. Ignore this if you have never installed `rgbds` before. If a version newer than 0.7.0 does not work, try downloading 0.7.0.
 
 Now open the Cygwin terminal and enter the following commands.
 

@@ -1,6 +1,7 @@
 # Pokémon Solus RGB: How to modify or remove certain features
 
-_Note_: This document is a work-in-progress.
+> [!NOTE]
+> This document is a work-in-progress.
 
 This document details how to make tweaks to (or remove) certain things that were added in the Pokémon Solus RGB romhack. If there are some things you don't like about the romhack, you can change them before building the ROMs. Or if you want to use this romhack as a starting point for your own romhack, this document can help you get started making some changes (if you do this, all I ask is that you [revert the title screens](#revert-the-title-screens) so they don't say "Solus" in your romhack).
 

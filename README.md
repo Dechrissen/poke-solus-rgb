@@ -50,7 +50,8 @@ For a detailed look at _all_ the changes, check out the [feature log][featurelog
 
 There are three versions of this romhack: _Solus Red_, _Solus Green_, and _Solus Blue_. The differences between versions are solely cosmetic (palettes, title screen text, etc.), as this project consolidates any of the meaningful version-specific differences that existed across versions, such as Pokémon availability. Check [here][versiondifferences] for a complete list of version differences.
 
-_Note_: If played on Game Boy Color, _Solus Green_ uses the GBC's built-in green "duochrome" palette. This is the same one which is used by the Japanese release of Pokémon Green Version.
+> [!NOTE]
+> If played on Game Boy Color, _Solus Green_ uses the GBC's built-in green "duochrome" palette. This is the same one which is used by the Japanese release of Pokémon Green Version.
 
 ## Installation
 
