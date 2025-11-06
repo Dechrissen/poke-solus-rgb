@@ -375,7 +375,7 @@ DECHRISSEN
     - TM28 (Dig): 2000p
     - TM30 (Teleport): 1000p
     - TM41 (Softboiled): 2000p
-- A new sign on Route 14, east of Fuchsia City, advertises these three TMs for sale at Celadon Dept. Store. (Notably, there was already a trainer on this route who mentions TMs being on sale in Celadon.)
+- A new sign on Route 14, east of Fuchsia City, advertises these three TMs for sale at Celadon Dept. Store. (Fittingly, there is already a trainer on this route who mentions TMs being on sale in Celadon.)
     
 #### The Trader
 
@@ -426,7 +426,7 @@ DECHRISSEN
 
 - A new NPC, Bill's father, is in Bill's grandfather's house in Fuchsia City.
 - He will sell you TM51 Flamethrower (only once). This aligns with Gen 1's original philosphy of TMs being one-time-use. This way, you need to be intentional about which Pokémon you use it on.
-- Flamethrower is the only of those three tutor moves without a dedicated TM in Gen 1. In Crystal Version, Bill's father is the Move Tutor outside Goldenrod Game Corner who teaches Flamethrower, Thunderbolt, and Ice Beam for 4000c each. Since the other two are already available as TMs in Gen 1, Flamethrower is the TM that he (fittingly) offers.
+- In Crystal Version, Bill's father is the Move Tutor outside Goldenrod Game Corner who teaches Flamethrower, Thunderbolt, and Ice Beam for 4000c each. Since the other two are already available as TMs in Gen 1, Flamethrower is the TM that he (fittingly) offers.
 - He will sell the player TM51 for 8000p; the price was determined by taking 10% of his coin-converted price when tutoring the move (in Crystal). If he sold it to you at full price, that would be 80000p, which is far too much. I thought 8000p was appropriate, because it should still be a substantial amount without being unattainable.
 
 #### Battle HUD updates

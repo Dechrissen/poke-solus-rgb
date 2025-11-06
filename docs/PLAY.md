@@ -2,7 +2,8 @@
 
 This guide is for complete beginners who want to learn how to set up and play the Solus RGB romhack.
 
-## Table of contents
+## Jump to
+
 1. [How to get the game](#how-to-get-the-game)
 2. [How to play the game](#how-to-play-the-game)
 
@@ -29,7 +30,10 @@ There are a few ways to play the game. Here are some common methods, in order of
 2. **Multi-ROM flash cartridge**. One example is [EverDrive][everdrive].
 3. **Single-ROM flash cartridge**. One example is [this one][cart]. These will also require a cartridge writing device, like [this one][flasher].
 
-All of these options will require the patched ROM file you created. For the emulator option, simply open the patched ROM file and play it on your computer/mobile device. For the flash cartridge options, get the patched ROM file onto the cartridge, and play it on a Game Boy.
+All of the above options will require the patched ROM file you created.
+
+- For the emulator option, open the patched ROM file in your emulator and play it on your computer/mobile device.
+- For the flash cartridge options, put the patched ROM file onto your cartridge according to its own setup instructions, and play it on a Game Boy.
 
 
 [latest]: https://github.com/Dechrissen/poke-solus-rgb/releases/latest
