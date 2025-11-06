@@ -468,7 +468,7 @@ Q: Do GameShark/Game Genie codes work with this romhack?
 > A: Evidently Game Shark codes work fine, but Game Genie codes do not. Your mileage may vary. Only one person reported that Game Shark codes worked, and that Game Genie codes did not. But I have not tested this myself.
 
 Q: Will you add X feature or make Y change?
-> A: Honestly, probably not; I consider this project to be 99% complete, barring any surge of inspiration I may get to make a change that allows the game to get closer to my initial vision. As of now, I'm happy to say that the vision is pretty much achieved. Check [Things I don't plan to change](#things-i-dont-plan-to-change) for some examples.
+> A: Honestly, probably not; I consider this project to be 99% complete, barring any surge of inspiration I may get to make a change that allows the game to get closer to my initial vision. As of now, I'm happy to say that the vision is pretty much achieved. Check [Things I don't plan to change](#things-i-dont-plan-to-change) for some examples. You can still [request a feature][requestissue] if you'd like (I will always appreciate requests).
 
 ### Things I don't plan to change
 There are some things I've been asked to implement which I don't think align with the philosophy for Solus RGB. They are listed here.
@@ -480,7 +480,7 @@ There are some things I've been asked to implement which I don't think align wit
 - _Adding shiny Pokémon._ I don't think it fits the philosophy. That's more of a technically-impressive-but-not-useful change. I think there's too much focus on shiny Pokémon these days.
 
 ### Future plans
-Check [this document][planned] for changes/features planned for future releases.
+Check [this document][planned] for changes/features planned for future releases. You can also [request a feature][requestissue].
 
 
 [titlecarousels]: https://bulbapedia.bulbagarden.net/wiki/Game_intro#Pok%C3%A9mon_Red,_Green,_and_Blue
@@ -488,3 +488,4 @@ Check [this document][planned] for changes/features planned for future releases.
 [tradebacks]: https://www.smogon.com/rb/articles/rby_tradebacks
 [tradebacks-table]: https://github.com/Dechrissen/tools/blob/master/pokemon-learnsets/data.csv
 [planned]: PLANNED.md
+[requestissue]: https://github.com/Dechrissen/poke-solus-rgb/issues/new?template=feature-request.md

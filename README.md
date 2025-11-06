@@ -126,6 +126,7 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 - [Box art and cartridge labels][physical]
 - [Original (crude) design document][designdoc]
 - [FAQ][faq]
+- [Report a bug][bugissue]
 
 ### Published media
 - [Blog posts][blogposts]
@@ -201,6 +202,7 @@ Please don't sell this romhack or anything crazy like that. I don't profit from 
 [solusdiscord]: https://discord.gg/YTxu5uM7r6
 [howtoplay]: docs/PLAY.md
 [faq]: docs/FEATURES.md#faq
+[bugissue]: https://github.com/Dechrissen/poke-solus-rgb/issues/new?template=bug-report.md
 
 <!-- PEOPLE -->
 [jojobear13]: https://github.com/jojobear13
